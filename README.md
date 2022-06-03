@@ -1,7 +1,4 @@
-# Project Title 
-
-  
-Odin Recipe Project
+# Odin Recipe Project
   
 
 ## Description 
