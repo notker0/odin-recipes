@@ -20,4 +20,6 @@ https://github.com/notker0
 ## Version History 
 
 0.1 - Release with working Index and finished Empanada Page
+
+1.0 - Release with 2 new recipe pages and easier user navigation
   
