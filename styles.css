@@ -2,10 +2,6 @@
     text-align: center;
 }
 
-ul {
-    list-style-position: inside;
-}
-
 .indeximg {
     height: auto;
     width: 500px;
@@ -18,10 +14,21 @@ div {
 .ptext {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
+}
+
+.opener {
     font-weight: bold;
 }
 
 .title {
     font-family: 'Times New Roman', Times, serif;
-    background-color: #8f000080;
+    background-color: #008f0080;
+}
+
+.lists {
+    text-align: center;
+}
+.lists > ul, ol {
+    display: inline-block;
+    list-style-position: inside;
 }
